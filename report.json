@@ -1,0 +1,63 @@
+{
+  "violation" : [
+    {
+      "method" : "createAndHandleRequest(endpoint:params:view:completion:)",
+      "path" : "\/Users\/matheustavares\/TDev\/TavApps DEV\/Personal\/BairesDev Tests\/MatFlix\/MatFlix\/Protocols\/BaseServiceProtocol.swift",
+      "value" : 4,
+      "endLine" : 14,
+      "message" : "Method 'createAndHandleRequest(endpoint:params:view:completion:)' has 4 parameters. The allowed number of parameters is 3",
+      "externalInfoUrl" : "http:\/\/phpmd.org\/rules\/codesize.html#excessiveparameterlist",
+      "rule" : "ExcessiveParameterList",
+      "priority" : 3,
+      "startLine" : 14
+    },
+    {
+      "class" : "BaseServiceProtocol",
+      "path" : "\/Users\/matheustavares\/TDev\/TavApps DEV\/Personal\/BairesDev Tests\/MatFlix\/MatFlix\/Protocols\/BaseServiceProtocol.swift",
+      "method" : "createAndHandleRequest(endpoint:params:view:completion:)",
+      "value" : 30,
+      "endLine" : 67,
+      "message" : "Method 'createAndHandleRequest(endpoint:params:view:completion:)' has too many lines: 30. The allowed number of lines in a method is 20",
+      "externalInfoUrl" : "http:\/\/phpmd.org\/rules\/codesize.html#excessivemethodlength",
+      "rule" : "ExcessiveMethodLength",
+      "priority" : 3,
+      "startLine" : 23
+    },
+    {
+      "class" : "BaseServiceProtocol",
+      "path" : "\/Users\/matheustavares\/TDev\/TavApps DEV\/Personal\/BairesDev Tests\/MatFlix\/MatFlix\/Protocols\/BaseServiceProtocol.swift",
+      "method" : "createAndHandleRequest(endpoint:params:view:completion:)",
+      "value" : 4,
+      "endLine" : 67,
+      "message" : "Method 'createAndHandleRequest(endpoint:params:view:completion:)' has 4 parameters. The allowed number of parameters is 3",
+      "externalInfoUrl" : "http:\/\/phpmd.org\/rules\/codesize.html#excessiveparameterlist",
+      "rule" : "ExcessiveParameterList",
+      "priority" : 3,
+      "startLine" : 23
+    },
+    {
+      "class" : "UpcomingAPITests",
+      "path" : "\/Users\/matheustavares\/TDev\/TavApps DEV\/Personal\/BairesDev Tests\/MatFlix\/MatFlixTests\/UpcomingAPITests.swift",
+      "method" : "fetchUpcomingList(page:)",
+      "value" : 23,
+      "endLine" : 70,
+      "message" : "Method 'fetchUpcomingList(page:)' has too many lines: 23. The allowed number of lines in a method is 20",
+      "externalInfoUrl" : "http:\/\/phpmd.org\/rules\/codesize.html#excessivemethodlength",
+      "rule" : "ExcessiveMethodLength",
+      "priority" : 3,
+      "startLine" : 33
+    },
+    {
+      "class" : "MovieSearchAPITests",
+      "path" : "\/Users\/matheustavares\/TDev\/TavApps DEV\/Personal\/BairesDev Tests\/MatFlix\/MatFlixTests\/MovieSearchAPITests.swift",
+      "method" : "searchMovie(query:page:shouldBeEmpty:)",
+      "value" : 23,
+      "endLine" : 85,
+      "message" : "Method 'searchMovie(query:page:shouldBeEmpty:)' has too many lines: 23. The allowed number of lines in a method is 20",
+      "externalInfoUrl" : "http:\/\/phpmd.org\/rules\/codesize.html#excessivemethodlength",
+      "rule" : "ExcessiveMethodLength",
+      "priority" : 3,
+      "startLine" : 35
+    }
+  ]
+}
