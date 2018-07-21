@@ -5,8 +5,7 @@ It main goal is to create an app for showing upcoming movies, with a search feat
 Screenshots given in the bottom.
 
 - [Mandatory Features](#mandatory-features)
-- [Extra Features](#extra-features)
-- [Todo](#todo)
+- [Libraries Used](#libraries-used)
 - [Requirements](#requirements)
 - [Screenshots](#screenshots)
 - [License](#license)
