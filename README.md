@@ -31,10 +31,10 @@ Screenshots given in the bottom.
 - CocoaPods
 
 ## Screenshots
-![Upcoming Movies Portrait](https://raw.githubusercontent.com/matheustavaresdev/MatFlix/development/Assets/01.png) |  ![Movie Details Portrait with big Overview](https://raw.githubusercontent.com/matheustavaresdev/MatFlix/development/Assets/03.png?raw=true "Movie Details Portrait with big Overview")
+![Upcoming Movies Portrait](https://raw.githubusercontent.com/tavapps/MatFlix/development/Assets/01.png) |  ![Movie Details Portrait with big Overview](https://raw.githubusercontent.com/tavapps/MatFlix/development/Assets/03.png?raw=true "Movie Details Portrait with big Overview")
 :-------------------------:|:-------------------------:
 
-![Search List Landscape](https://raw.githubusercontent.com/matheustavaresdev/MatFlix/development/Assets/04.png?raw=true "Search List Landscape")  ![Movie Details Landscape](https://raw.githubusercontent.com/matheustavaresdev/MatFlix/development/Assets/05.png?raw=true "Movie Details Landscape")
+![Search List Landscape](https://raw.githubusercontent.com/tavapps/MatFlix/development/Assets/04.png?raw=true "Search List Landscape")  ![Movie Details Landscape](https://raw.githubusercontent.com/tavapps/MatFlix/development/Assets/05.png?raw=true "Movie Details Landscape")
 
 ## License
 
