@@ -40,7 +40,7 @@ Screenshots given in the bottom.
 
 This project is available under the [BSD 2-Clause “Simplified” License](http://www.opensource.org/licenses/BSD-2-Clause):
 
-Copyright (c) 2018, Matheus Tavares <https://github.com/matheustavaresdev/>  
+Copyright (c) 2018, Matheus Tavares / TavApps <https://github.com/tavapps/>  
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
